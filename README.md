@@ -7,6 +7,10 @@ Built using Godot 3.2.3
 
 The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
 
+Music by GTDStudio (https://opengameart.org/content/round-2multiple-tracks)
+
+Features added: Wall-jump, end screen,  juicy level design, turrets
+
 ## References
 None
 
